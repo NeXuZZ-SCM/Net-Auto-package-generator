@@ -1,0 +1,16 @@
+C:\Users\nexuz\source\repos\AutoZipDeploy\bin\Debug\net7.0-windows\AutoZipDeploy.exe
+C:\Users\nexuz\source\repos\AutoZipDeploy\bin\Debug\net7.0-windows\AutoZipDeploy.deps.json
+C:\Users\nexuz\source\repos\AutoZipDeploy\bin\Debug\net7.0-windows\AutoZipDeploy.runtimeconfig.json
+C:\Users\nexuz\source\repos\AutoZipDeploy\bin\Debug\net7.0-windows\AutoZipDeploy.dll
+C:\Users\nexuz\source\repos\AutoZipDeploy\bin\Debug\net7.0-windows\AutoZipDeploy.pdb
+C:\Users\nexuz\source\repos\AutoZipDeploy\obj\Debug\net7.0-windows\AutoZipDeploy.Form1.resources
+C:\Users\nexuz\source\repos\AutoZipDeploy\obj\Debug\net7.0-windows\AutoZipDeploy.csproj.GenerateResource.cache
+C:\Users\nexuz\source\repos\AutoZipDeploy\obj\Debug\net7.0-windows\AutoZipDeploy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nexuz\source\repos\AutoZipDeploy\obj\Debug\net7.0-windows\AutoZipDeploy.AssemblyInfoInputs.cache
+C:\Users\nexuz\source\repos\AutoZipDeploy\obj\Debug\net7.0-windows\AutoZipDeploy.AssemblyInfo.cs
+C:\Users\nexuz\source\repos\AutoZipDeploy\obj\Debug\net7.0-windows\AutoZipDeploy.csproj.CoreCompileInputs.cache
+C:\Users\nexuz\source\repos\AutoZipDeploy\obj\Debug\net7.0-windows\AutoZipDeploy.dll
+C:\Users\nexuz\source\repos\AutoZipDeploy\obj\Debug\net7.0-windows\refint\AutoZipDeploy.dll
+C:\Users\nexuz\source\repos\AutoZipDeploy\obj\Debug\net7.0-windows\AutoZipDeploy.pdb
+C:\Users\nexuz\source\repos\AutoZipDeploy\obj\Debug\net7.0-windows\AutoZipDeploy.genruntimeconfig.cache
+C:\Users\nexuz\source\repos\AutoZipDeploy\obj\Debug\net7.0-windows\ref\AutoZipDeploy.dll
