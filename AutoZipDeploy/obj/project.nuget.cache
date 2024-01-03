@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JDsWUef+7IKEecczjTBG0TFPcn2RHh0JEB/NDdNaG+cA1cyDZZoPDfvx3syBu5ioyV01BSfC/MFgVqo7gF7KOg==",
+  "dgSpecHash": "2IwPf66s1dNfitnFG086vXdR6SZoXaJbe69aV7FA8xXyMkIcR9mYz5hlJVgNYJjzhjSiiPbsj0Y3bgrFnkjhOA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\nexuz\\source\\repos\\AutoZipDeploy\\AutoZipDeploy.csproj",
+  "projectFilePath": "C:\\Dev\\Net-Auto-package-generator\\AutoZipDeploy\\AutoZipDeploy.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nexuz\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",
     "C:\\Users\\nexuz\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",

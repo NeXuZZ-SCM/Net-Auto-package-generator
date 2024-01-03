@@ -10,3 +10,16 @@ C:\Users\nexuz\source\repos\Business\obj\Debug\net8.0\refint\Business.dll
 C:\Users\nexuz\source\repos\Business\obj\Debug\net8.0\Business.pdb
 C:\Users\nexuz\source\repos\Business\obj\Debug\net8.0\ref\Business.dll
 C:\Users\nexuz\source\repos\Business\obj\Debug\net8.0\Business.csproj.AssemblyReference.cache
+C:\Dev\Net-Auto-package-generator\Business\bin\Debug\net8.0\Business.deps.json
+C:\Dev\Net-Auto-package-generator\Business\bin\Debug\net8.0\Business.dll
+C:\Dev\Net-Auto-package-generator\Business\bin\Debug\net8.0\Business.pdb
+C:\Dev\Net-Auto-package-generator\Business\obj\Debug\net8.0\Business.csproj.AssemblyReference.cache
+C:\Dev\Net-Auto-package-generator\Business\obj\Debug\net8.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\Net-Auto-package-generator\Business\obj\Debug\net8.0\Business.AssemblyInfoInputs.cache
+C:\Dev\Net-Auto-package-generator\Business\obj\Debug\net8.0\Business.AssemblyInfo.cs
+C:\Dev\Net-Auto-package-generator\Business\obj\Debug\net8.0\Business.csproj.CoreCompileInputs.cache
+C:\Dev\Net-Auto-package-generator\Business\obj\Debug\net8.0\Business.sourcelink.json
+C:\Dev\Net-Auto-package-generator\Business\obj\Debug\net8.0\Business.dll
+C:\Dev\Net-Auto-package-generator\Business\obj\Debug\net8.0\refint\Business.dll
+C:\Dev\Net-Auto-package-generator\Business\obj\Debug\net8.0\Business.pdb
+C:\Dev\Net-Auto-package-generator\Business\obj\Debug\net8.0\ref\Business.dll

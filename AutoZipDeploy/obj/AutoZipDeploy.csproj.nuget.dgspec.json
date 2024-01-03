@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nexuz\\source\\repos\\AutoZipDeploy\\AutoZipDeploy.csproj": {}
+    "C:\\Dev\\Net-Auto-package-generator\\AutoZipDeploy\\AutoZipDeploy.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nexuz\\source\\repos\\AutoZipDeploy\\AutoZipDeploy.csproj": {
+    "C:\\Dev\\Net-Auto-package-generator\\AutoZipDeploy\\AutoZipDeploy.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nexuz\\source\\repos\\AutoZipDeploy\\AutoZipDeploy.csproj",
+        "projectUniqueName": "C:\\Dev\\Net-Auto-package-generator\\AutoZipDeploy\\AutoZipDeploy.csproj",
         "projectName": "AutoZipDeploy",
-        "projectPath": "C:\\Users\\nexuz\\source\\repos\\AutoZipDeploy\\AutoZipDeploy.csproj",
+        "projectPath": "C:\\Dev\\Net-Auto-package-generator\\AutoZipDeploy\\AutoZipDeploy.csproj",
         "packagesPath": "C:\\Users\\nexuz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nexuz\\source\\repos\\AutoZipDeploy\\obj\\",
+        "outputPath": "C:\\Dev\\Net-Auto-package-generator\\AutoZipDeploy\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,8 +33,8 @@
           "net8.0-windows7.0": {
             "targetAlias": "net8.0-windows7.0",
             "projectReferences": {
-              "C:\\Users\\nexuz\\source\\repos\\Business\\Business.csproj": {
-                "projectPath": "C:\\Users\\nexuz\\source\\repos\\Business\\Business.csproj"
+              "C:\\Dev\\Net-Auto-package-generator\\Business\\Business.csproj": {
+                "projectPath": "C:\\Dev\\Net-Auto-package-generator\\Business\\Business.csproj"
               }
             }
           }
@@ -85,14 +85,14 @@
         }
       }
     },
-    "C:\\Users\\nexuz\\source\\repos\\Business\\Business.csproj": {
+    "C:\\Dev\\Net-Auto-package-generator\\Business\\Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nexuz\\source\\repos\\Business\\Business.csproj",
+        "projectUniqueName": "C:\\Dev\\Net-Auto-package-generator\\Business\\Business.csproj",
         "projectName": "Business",
-        "projectPath": "C:\\Users\\nexuz\\source\\repos\\Business\\Business.csproj",
+        "projectPath": "C:\\Dev\\Net-Auto-package-generator\\Business\\Business.csproj",
         "packagesPath": "C:\\Users\\nexuz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nexuz\\source\\repos\\Business\\obj\\",
+        "outputPath": "C:\\Dev\\Net-Auto-package-generator\\Business\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

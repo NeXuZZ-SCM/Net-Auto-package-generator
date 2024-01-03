@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AUh6Xq5VDcUa6XRaqz3A9nu+v8cb8jkrTQESVuxRwzYz5vY4yhOrQ6D4+u/ic+zjI4Mwa1rHsPlmYUln1Uj2qw==",
+  "dgSpecHash": "STSNhzeA0WgH0odFpNsiazXHirEyqWihxjNSPB1gcjNcUnl4A7vnS/FWe7ivU7xXU6A2yVwhZgt4UrEsqwgdPA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\nexuz\\source\\repos\\Business\\Business.csproj",
+  "projectFilePath": "C:\\Dev\\Net-Auto-package-generator\\Business\\Business.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nexuz\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",
     "C:\\Users\\nexuz\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",

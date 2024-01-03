@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AutoZipDeploy")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a936dce776df6dd369973884ce967bd017e90598")]
 [assembly: System.Reflection.AssemblyProductAttribute("AutoZipDeploy")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AutoZipDeploy")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

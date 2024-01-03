@@ -16,22 +16,25 @@ namespace Business
             {
                 // Obtener todos los archivos en la carpeta
                 DirectoryInfo infoCarpeta = new DirectoryInfo(folderToZip);
-                var algo = infoCarpeta.GetFiles();
-                foreach (FileInfo file in infoCarpeta.GetFiles())
+                FileInfo[] archivos = infoCarpeta.GetFiles("*", SearchOption.AllDirectories);
+                foreach (FileInfo file in archivos)
                 {
+                    // Calcular el path relativo del archivo respecto al folderToZip
+                    string relativePath = Path.GetRelativePath(folderToZip, file.FullName);
+
                     if (type is typeOfZip.Backup)
                     {
-                        archive.CreateEntryFromFile(file.FullName, file.Name);
+                        archive.CreateEntryFromFile(file.FullName, relativePath);
                     }
                     else
                     {
                         // Verificar si el archivo está en la lista de exclusión
-                        if (!selectedDeleteFiles.Contains(file.Name))
+                        if (!selectedDeleteFiles.Contains(file.Name.ToLower()))
                         {
                             if (!selectedDeleteFiles.Contains(file.Extension))
                             {
                                 // Añadir el archivo al archivo zip
-                                archive.CreateEntryFromFile(file.FullName, file.Name);
+                                archive.CreateEntryFromFile(file.FullName, relativePath);
                             }
                         }
                     }
